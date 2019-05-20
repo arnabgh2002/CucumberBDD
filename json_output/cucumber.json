@@ -1,0 +1,40 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Test Login Test Scenario",
+        "description": "",
+        "id": "login-to-application;test-login-test-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8821251139,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user initiate browser and Opens the application",
+            "match": {
+              "location": "loginStepDefination.user_initiate_browser_and_Opens_the_application()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@demo"
+          }
+        ]
+      }
+    ],
+    "name": "Login to Application",
+    "description": "",
+    "id": "login-to-application",
+    "keyword": "Feature",
+    "uri": "Login.feature"
+  }
+]
